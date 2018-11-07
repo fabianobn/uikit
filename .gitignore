@@ -18,3 +18,5 @@ custom
 themes.json
 .DS_Store
 /.idea
+
+/vendor/
